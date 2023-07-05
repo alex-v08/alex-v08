@@ -11,9 +11,9 @@ Contáctame **📞**
 #### GitHub: https://github.com/alex08-vt
 
 ### Habilidades técnicas 💻
-#### Lenguajes de programación: Java, JavaScript, Python, C, C++, C#, SQL, HTML, CSS
+#### Lenguajes de programación: Java, JavaScript, Python, C, C++, SQL, HTML, CSS
 
-#### Tecnologías: Node.js, Express.js, React.js, Spring Boot, Hibernate, Git, GitHub, MongoDB, MySQL, PostgreSQL, Docker, AWS, Heroku, Firebase, Netlify, Visual Studio Code, Eclipse, IntelliJ IDEA, Postman, Insomnia, Linux, Windows
+#### Tecnologías:Spring Boot, Hibernate, React.js, Angular , Git, GitHub, MongoDB, MySQL, PostgreSQL, Docker, AWS, Heroku, Firebase, Visual Studio Code, Eclipse, IntelliJ IDEA, Postman, Linux, Windows
 
 
 ¡No dudes en contactarme si tienes alguna pregunta o si estás interesado en colaborar en proyectos de desarrollo Back end!
