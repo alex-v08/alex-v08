@@ -8,7 +8,7 @@
 Contáctame **📞**
 #### Correo electrónico: alex.velasquez08@outlook.com
 #### LinkedIn: https://linkedin.com/in/alex-velasquez08
-#### GitHub: https://github.com/alex08-vt
+#### GitHub: https://github.com/alex-v08
 
 ### Habilidades técnicas 💻
 #### Lenguajes de programación: Java, JavaScript, Python, C, C++, SQL, HTML, CSS
