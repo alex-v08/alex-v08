@@ -1,64 +1,42 @@
 # Hi there, I'm Alex Velasquez! 👋
-## Backend Specialist | AI & Agents Integrator | Software Architect
+## AI Agent Architect | Automation Engineer | Backend Specialist
 
-I am a passionate **Backend Developer** based in **Argentina** 🇦🇷, specializing in building robust, scalable systems and intelligent agentic workflows. My journey has evolved from IT Infrastructure leadership to crafting high-performance backend solutions using **Java (Spring Boot)** and **Go**, and now pushing the boundaries with **AI Agents** and **Spec-Driven Development (SDD)**.
+I specialize in engineering intelligence into business processes. My passion lies in building **autonomous agentic workflows** and complex backend systems, while sharing the journey and the "how-to" behind every innovation. I don't just build tools; I create ecosystems where AI and human action converge.
 
-### 🚀 Current Focus & Highlights
+### 🚀 Innovation & Agentic AI
 
-- **🤖 AI & Agents:** Building autonomous agents with **Model Context Protocol (MCP)**, **n8n**, and local LLMs (`llama3`, `deepseek`) on my own Raspberry Pi cluster.
-- **🏗️ Architecture:** Advocate for **Hexagonal Architecture**, **Clean Architecture**, and **Domain-Driven Design (DDD)**.
-- **🧩 Methodologies:** Pioneering **Spec-Driven Development (SDD)** to bridge the gap between requirements and code.
-- **🌐 Ecosystems:** Creating cross-platform solutions with **Kotlin Multiplatform (KMP)**.
+- **🤖 Agentic Orchestration:** Architecting **Model Context Protocol (MCP)** servers to empower LLMs with real-world tools.
+- **⚙️ Advanced Automation:** Expert in **n8n** for high-complexity flows—from transcribing Telegram voice notes with **Whisper** to intelligent lead distribution systems for real estate.
+- **🧠 Practical AI:** Implementing **RAG (Retrieval-Augmented Generation)** for legal and academic sectors, focusing on data isolation and semantic precision.
 
----
+### 🏗️ Complex Engineering & Reliability
 
-### 🛠️ Tech Stack
-
-#### **Core Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-#### **AI & Data Engineering**
-<p align="left">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-#### **Infrastructure & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Pop!_OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-</p>
+- **UGR Conecta:** Optimized massive university management systems, solving critical SQL performance bottlenecks and implementing architectural monitoring.
+- **Backend Mastery:** Robust development in **Java (Spring Boot)** and **Go**, utilizing **Hexagonal Architecture** and **Clean Code** to ensure long-term scalability.
+- **Infrastructure:** Running local AI clusters (Raspberry Pi/Linux) to test and deploy private, secure LLM environments.
 
 ---
 
 ### 🔭 Featured Projects
 
-- **Agen-ce:** An AI-powered agent for **Foreign Trade in Argentina**, leveraging GitHub Copilot, Streamlit, and Node.js.
-- **A2Home Ecosystem:** A comprehensive Spec-Driven Development (SDD) project implementing pure domain models, application ports, and JPA adapters.
-- **ROG AI Workstation:** Custom local AI infrastructure running on a Raspberry Pi cluster and optimized Linux workstations.
+- **[Agen-ce](https://github.com/alex-v08/):** An AI Agent specialized in **Argentine Foreign Trade**, bridging the gap between complex regulations and actionable data.
+- **[Lead Distribution System]:** A production-ready automation for Tokko Broker that uses AI for sentiment analysis and round-robin assignment.
+- **[MCP Server Suite]:** Custom servers that turn any API or database into an agentic tool.
 
 ---
 
-### 📈 Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=alex-v08&show_icons=true&theme=radical&hide_border=true" alt="alex-v08" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-v08&layout=compact&theme=radical&hide_border=true" alt="alex-v08" />
-</p>
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Go, Kotlin, Python, SQL.
+- **AI/Automation:** n8n, Ollama, LangChain, MCP, OpenAI API.
+- **DevOps:** Docker, AWS, Linux (Pop!_OS), Raspberry Pi.
 
 ---
 
-### 📫 Connect with me
+### 🤝 Building in Public & Mentorship
+I believe in **learning by doing and teaching by showing**. I frequently document my implementations to help other developers navigate the complexities of AI agents and modern backend architecture.
+
 - **LinkedIn:** [linkedin.com/in/alex-velasquez08](https://www.linkedin.com/in/alex-velasquez08/)
 - **Email:** alex.velasquez08@outlook.com
 
-_"Building the future, one spec at a time."_
+_"Engineering complex solutions, sharing the blueprints."_
