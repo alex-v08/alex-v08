@@ -22,19 +22,19 @@ Professional with extensive experience leading technical teams under Agile metho
 <p align="left">
   <img src="https://img.shields.io/badge/Backend-Java_/_Go-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Framework-Micronaut_/_Spring_Boot-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture-Hexagonal-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Industry-EdTech_/_Real_Estate_/_Foreign_Trade-orange?style=flat-square" />
 </p>
 
 *   **Technical Leadership:** Proven track record leading multidisciplinary teams using Agile frameworks to deliver scalable software solutions.
-*   **Complex Systems (UGR/REMPSA):** End-to-end development of the **UGR Backend**, a mission-critical system for university management. Built with **Java 21** and **Micronaut**, featuring complex SQL optimization, JWT/OAuth2 security with Keycloak, and full containerization.
+*   **Complex Systems (EdTech):** End-to-end development of a mission-critical **Academic Management Engine**. Built with **Java 21** and **Micronaut**, featuring complex SQL optimization, JWT/OAuth2 security with Keycloak, and full containerization for large-scale university environments.
 *   **Backend Mastery:** Robust development in Java and Go, ensuring reliability through Hexagonal Architecture and Clean Code principles.
 
 ---
 
 ### Featured Projects
-*   **UGR Backend:** A high-performance university management engine developed solo, focusing on massive data processing and secure authentication flows.
-*   **Agen-ce:** AI Agent for Argentine Foreign Trade, bridging regulatory complexity with actionable data using custom agentic workflows.
-*   **Lead Distribution System:** Production-ready automation for real estate that utilizes AI for sentiment analysis and round-robin assignment.
+*   **Academic Management Engine:** A high-performance core for the education industry developed solo, focusing on massive data processing and secure authentication flows.
+*   **Agen-ce:** AI Agent for **Argentine Foreign Trade**, bridging regulatory complexity with actionable data using custom agentic workflows.
+*   **Lead Distribution System:** Production-ready automation for the **Real Estate industry** that utilizes AI for sentiment analysis and round-robin assignment.
 
 ---
 
