@@ -5,19 +5,6 @@ Professional with extensive experience leading technical teams under Agile metho
 
 ---
 
-### Innovation & Agentic AI
-<p align="left">
-  <img src="https://img.shields.io/badge/Agentic_Orchestration-MCP-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Stack-OpenCode_/_Claude_Code-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/CLI_Power-Gemini_/_Copilot_/_Antigravity-orange?style=flat-square" />
-</p>
-
-*   **Pragmatic AI Integration:** Constantly evolving my stack with the latest technologies (Gemini CLI, Copilot CLI, Antigravity). I leverage tools like **Claude Code** for high-level reasoning while utilizing **OpenCode** for customized Spec-Driven Development (SDD).
-*   **LLM Flexibility:** My projects are not tied to "hype"; I strategically select between Cloud LLMs or Local models (Ollama/DeepSeek) depending on security, cost, and complexity requirements.
-*   **Agentic Orchestration:** Architecting Model Context Protocol (MCP) servers to bridge the gap between LLMs and real-world business tool execution.
-
----
-
 ### Engineering & Agile Leadership
 <p align="left">
   <img src="https://img.shields.io/badge/Backend-Java_/_Go-00599C?style=flat-square" />
@@ -28,6 +15,19 @@ Professional with extensive experience leading technical teams under Agile metho
 *   **Technical Leadership:** Proven track record leading multidisciplinary teams using Agile frameworks to deliver scalable software solutions.
 *   **Complex Systems (EdTech):** End-to-end development of a mission-critical **Academic Management Engine**. Built with **Java 21** and **Micronaut**, featuring complex SQL optimization, JWT/OAuth2 security with Keycloak, and full containerization for large-scale university environments.
 *   **Backend Mastery:** Robust development in Java and Go, ensuring reliability through Hexagonal Architecture and Clean Code principles.
+
+---
+
+### Innovation & Agentic AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Agentic_Orchestration-MCP-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Stack-OpenCode_/_Claude_Code-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/CLI_Power-Gemini_/_Copilot_/_Antigravity-orange?style=flat-square" />
+</p>
+
+*   **Pragmatic AI Integration:** Constantly evolving my stack with the latest technologies (Gemini CLI, Copilot CLI, Antigravity). I leverage tools like **Claude Code** for high-level reasoning while utilizing **OpenCode** for customized Spec-Driven Development (SDD).
+*   **LLM Flexibility:** My projects are not tied to "hype"; I strategically select between Cloud LLMs or Local models (Ollama/DeepSeek) depending on security, cost, and complexity requirements.
+*   **Agentic Orchestration:** Architecting Model Context Protocol (MCP) servers to bridge the gap between LLMs and real-world business tool execution.
 
 ---
 
