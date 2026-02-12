@@ -1,47 +1,50 @@
 # Alex Velasquez
-## AI Agent Architect | Automation Engineer | Backend Specialist
+## Senior Software Architect | AI Agent Specialist | Technical Mentor
 
-Professional with extensive experience leading technical teams under Agile methodologies (Scrum/Kanban). I specialize in engineering intelligence into business processes by building autonomous agentic workflows and high-complexity backend systems, maintaining a pragmatic and tool-agnostic approach to AI.
+Professional with over 15 years of industry experience, evolving from **IT Infrastructure Management** to high-scale **Backend Architecture** and **Autonomous Agentic Systems**. I specialize in engineering intelligence into business processes using a pragmatic, tool-agnostic approach.
 
 ---
 
-### Engineering & Agile Leadership
+### 🏗️ Engineering & Technical Leadership
 <p align="left">
-  <img src="https://img.shields.io/badge/Backend-Java_/_Go-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Framework-Spring_Cloud_/_Micronaut-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_/_Hexagonal-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Java_21_/_Go-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Framework-Micronaut_/_Spring_Boot-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Hexagonal_/_Clean-orange?style=flat-square" />
 </p>
 
-*   **Technical Leadership:** Proven track record leading multidisciplinary teams using Agile frameworks to deliver scalable software solutions.
-*   **End-to-End Architecture (On-Demand Marketplace):** Architected and implemented a high-scale service marketplace platform. Designed a microservices ecosystem with **Spring Cloud**, featuring **API Gateway**, **Service Discovery**, **Keycloak (OAuth2)**, and **RabbitMQ** for event-driven communication.
-*   **Complex Systems (EdTech):** End-to-end development of a mission-critical Academic Management Engine. Built with **Java 21** and **Micronaut**, featuring complex SQL optimization and full containerization for large-scale university environments.
-*   **Backend Mastery:** Robust development in Java and Go, ensuring reliability through Hexagonal Architecture and Clean Code principles.
+*   **Complex Systems:** End-to-end development of mission-critical engines in **EdTech**, **Marketplaces**, and **Foreign Trade**. Expert in high-load SQL optimization and microservices orchestration.
+*   **Legacy Transformation:** Proven track record of bridging legacy infrastructure with modern APIs (e.g., SIU Guaraní), achieving 70% performance improvements.
+*   **Agile Management:** Leading multidisciplinary teams under Scrum/Kanban frameworks to deliver scalable, production-ready solutions.
 
 ---
 
-### Innovation & Agentic AI
+### 🤖 Innovation & Agentic AI
 <p align="left">
-  <img src="https://img.shields.io/badge/Agentic_Orchestration-MCP-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Stack-OpenCode_/_Claude_Code-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/CLI_Power-Gemini_/_Copilot_/_Antigravity-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic-MCP_/_n8n-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Stack-Claude_Code_/_OpenCode-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Expertise-LLM_Fine--Tuning-red?style=flat-square" />
 </p>
 
-*   **Pragmatic AI Integration:** Constantly evolving my stack with the latest technologies (Gemini CLI, Copilot CLI, Antigravity). I leverage tools like **Claude Code** for high-level reasoning while utilizing **OpenCode** for customized Spec-Driven Development (SDD).
-*   **LLM Flexibility:** My projects are not tied to "hype"; I strategically select between Cloud LLMs or Local models (Ollama/DeepSeek) depending on security, cost, and complexity requirements.
-*   **Agentic Orchestration:** Architecting Model Context Protocol (MCP) servers to bridge the gap between LLMs and real-world business tool execution.
+*   **Agentic Architecture:** Pioneering the use of **Model Context Protocol (MCP)** to empower LLMs with real-world enterprise tools.
+*   **Custom Intelligence:** Executing **Fine-tuning** processes on local LLMs to deliver domain-specific context and high-accuracy responses for specialized client requirements.
+*   **Pragmatic Stack:** Leveraging the best of Cloud and Local AI (Ollama, DeepSeek, Gemini CLI) to build resilient, cost-effective automation.
 
 ---
 
-### Featured Projects
-*   **On-Demand Marketplace Core:** A comprehensive microservices ecosystem for service-based industries, implementing **Clean Architecture** and event-driven patterns.
-*   **Academic Management Engine:** A high-performance core for the education industry developed solo, focusing on massive data processing and secure authentication flows.
-*   **Agen-ce:** AI Agent for **Argentine Foreign Trade**, bridging regulatory complexity with actionable data using custom agentic workflows.
+### 🎓 Building in Public & Instruction
+As a Lead Instructor at **Centro IT (Fundación Libertad)**, I design and deliver specialized programs on AI adoption and advanced automation. I am passionate about technical transparency and mentoring the next generation of engineers in the "Agentic Era."
 
 ---
 
-### Building in Public & Mentorship
-I advocate for technical transparency. I document and share my implementations to mentor other developers in navigating the complexities of AI agents and modern backend architecture.
+### 🔭 Featured Innovations
+*   **Agen-ce:** Autonomous intelligence system for Argentine Foreign Trade compliance.
+*   **n8n-mcp-server:** Open-source bridge connecting n8n workflows with agentic LLMs.
+*   **Academic Core:** Solo development of a massive-scale management engine using Java 21.
 
-**Contact**
-*   **LinkedIn:** [linkedin.com/in/alex-velasquez08](https://www.linkedin.com/in/alex-velasquez08/)
-*   **Email:** alex.velasquez08@outlook.com
+---
+
+**Contact & Connections**
+*   📍 Mendoza, Argentina
+*   🔗 [LinkedIn](https://www.linkedin.com/in/alex-velasquez08) | 📧 [Email](mailto:alex.velasquez08@outlook.com)
+
+_"Engineering complex solutions, sharing the blueprints."_
