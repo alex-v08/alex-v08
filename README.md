@@ -1,42 +1,46 @@
-# Hi there, I'm Alex Velasquez! 👋
+# Alex Velasquez
 ## AI Agent Architect | Automation Engineer | Backend Specialist
 
-I specialize in engineering intelligence into business processes. My passion lies in building **autonomous agentic workflows** and complex backend systems, while sharing the journey and the "how-to" behind every innovation. I don't just build tools; I create ecosystems where AI and human action converge.
-
-### 🚀 Innovation & Agentic AI
-
-- **🤖 Agentic Orchestration:** Architecting **Model Context Protocol (MCP)** servers to empower LLMs with real-world tools.
-- **⚙️ Advanced Automation:** Expert in **n8n** for high-complexity flows—from transcribing Telegram voice notes with **Whisper** to intelligent lead distribution systems for real estate.
-- **🧠 Practical AI:** Implementing **RAG (Retrieval-Augmented Generation)** for legal and academic sectors, focusing on data isolation and semantic precision.
-
-### 🏗️ Complex Engineering & Reliability
-
-- **UGR Conecta:** Optimized massive university management systems, solving critical SQL performance bottlenecks and implementing architectural monitoring.
-- **Backend Mastery:** Robust development in **Java (Spring Boot)** and **Go**, utilizing **Hexagonal Architecture** and **Clean Code** to ensure long-term scalability.
-- **Infrastructure:** Running local AI clusters (Raspberry Pi/Linux) to test and deploy private, secure LLM environments.
+Professional with extensive experience in leading technical teams under Agile methodologies (Scrum/Kanban). Expert in engineering intelligence into business processes by building autonomous agentic workflows and high-complexity backend systems.
 
 ---
 
-### 🔭 Featured Projects
+### Innovation & Agentic AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Agentic_Orchestration-MCP-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-n8n-FF6584?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Models-Ollama-blue?style=flat-square" />
+</p>
 
-- **[Agen-ce](https://github.com/alex-v08/):** An AI Agent specialized in **Argentine Foreign Trade**, bridging the gap between complex regulations and actionable data.
-- **[Lead Distribution System]:** A production-ready automation for Tokko Broker that uses AI for sentiment analysis and round-robin assignment.
-- **[MCP Server Suite]:** Custom servers that turn any API or database into an agentic tool.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Java, Go, Kotlin, Python, SQL.
-- **AI/Automation:** n8n, Ollama, LangChain, MCP, OpenAI API.
-- **DevOps:** Docker, AWS, Linux (Pop!_OS), Raspberry Pi.
+*   **Agentic Orchestration:** Architecting Model Context Protocol (MCP) servers to empower LLMs with real-world tool execution.
+*   **Advanced Automation:** Specialized in n8n for high-complexity flows, including Telegram/Whisper integrations and intelligent CRM distribution.
+*   **Practical AI:** Implementing RAG (Retrieval-Augmented Generation) for legal and academic sectors, focusing on data isolation and semantic precision.
 
 ---
 
-### 🤝 Building in Public & Mentorship
-I believe in **learning by doing and teaching by showing**. I frequently document my implementations to help other developers navigate the complexities of AI agents and modern backend architecture.
+### Engineering & Agile Leadership
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-Java_/_Go-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methodology-Agile_/_Scrum-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Hexagonal-orange?style=flat-square" />
+</p>
 
-- **LinkedIn:** [linkedin.com/in/alex-velasquez08](https://www.linkedin.com/in/alex-velasquez08/)
-- **Email:** alex.velasquez08@outlook.com
+*   **Technical Leadership:** Proven track record leading multidisciplinary teams using Agile frameworks to deliver scalable software solutions.
+*   **Complex Systems:** Optimized massive university management systems (UGR Conecta), solving critical performance bottlenecks through SQL engineering and architectural monitoring.
+*   **Backend Mastery:** Robust development in Java (Spring Boot) and Go, ensuring reliability through Hexagonal Architecture and Clean Code principles.
 
-_"Engineering complex solutions, sharing the blueprints."_
+---
+
+### Featured Projects
+*   **Agen-ce:** AI Agent for Argentine Foreign Trade, bridging regulatory complexity with actionable data.
+*   **Lead Distribution System:** Production-ready automation for real estate that utilizes AI for sentiment analysis and round-robin assignment.
+*   **Infrastructure:** Deployment of local AI clusters (Raspberry Pi/Linux) for secure and private LLM environments.
+
+---
+
+### Building in Public & Mentorship
+I advocate for technical transparency. I document and share my implementations to mentor other developers in navigating the complexities of AI agents and modern backend architecture.
+
+**Contact**
+*   **LinkedIn:** [linkedin.com/in/alex-velasquez08](https://www.linkedin.com/in/alex-velasquez08/)
+*   **Email:** alex.velasquez08@outlook.com
