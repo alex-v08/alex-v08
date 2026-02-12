@@ -1,20 +1,20 @@
 # Alex Velasquez
 ## AI Agent Architect | Automation Engineer | Backend Specialist
 
-Professional with extensive experience in leading technical teams under Agile methodologies (Scrum/Kanban). Expert in engineering intelligence into business processes by building autonomous agentic workflows and high-complexity backend systems.
+Professional with extensive experience leading technical teams under Agile methodologies (Scrum/Kanban). I specialize in engineering intelligence into business processes by building autonomous agentic workflows and high-complexity backend systems, maintaining a pragmatic and tool-agnostic approach to AI.
 
 ---
 
 ### Innovation & Agentic AI
 <p align="left">
   <img src="https://img.shields.io/badge/Agentic_Orchestration-MCP-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-n8n-FF6584?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Models-Ollama-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Stack-OpenCode_/_Claude_Code-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/CLI_Power-Gemini_/_Copilot_/_Antigravity-orange?style=flat-square" />
 </p>
 
-*   **Agentic Orchestration:** Architecting Model Context Protocol (MCP) servers to empower LLMs with real-world tool execution.
-*   **Advanced Automation:** Specialized in n8n for high-complexity flows, including Telegram/Whisper integrations and intelligent CRM distribution.
-*   **Practical AI:** Implementing RAG (Retrieval-Augmented Generation) for legal and academic sectors, focusing on data isolation and semantic precision.
+*   **Pragmatic AI Integration:** Constantly evolving my stack with the latest technologies (Gemini CLI, Copilot CLI, Antigravity). I leverage tools like **Claude Code** for high-level reasoning while utilizing **OpenCode** for customized Spec-Driven Development (SDD).
+*   **LLM Flexibility:** My projects are not tied to "hype"; I strategically select between Cloud LLMs or Local models (Ollama/DeepSeek) depending on security, cost, and complexity requirements.
+*   **Agentic Orchestration:** Architecting Model Context Protocol (MCP) servers to bridge the gap between LLMs and real-world business tool execution.
 
 ---
 
@@ -32,9 +32,9 @@ Professional with extensive experience in leading technical teams under Agile me
 ---
 
 ### Featured Projects
-*   **Agen-ce:** AI Agent for Argentine Foreign Trade, bridging regulatory complexity with actionable data.
+*   **Agen-ce:** AI Agent for Argentine Foreign Trade, bridging regulatory complexity with actionable data using custom agentic workflows.
 *   **Lead Distribution System:** Production-ready automation for real estate that utilizes AI for sentiment analysis and round-robin assignment.
-*   **Infrastructure:** Deployment of local AI clusters (Raspberry Pi/Linux) for secure and private LLM environments.
+*   **Infrastructure:** Deployment of local AI clusters (Raspberry Pi/Linux) for secure and private LLM environments, enabling independent model testing.
 
 ---
 
