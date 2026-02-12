@@ -1,59 +1,64 @@
-# ¡Hola, soy Alex Velasquez! 
-## Desarrollador Backend
+# Hi there, I'm Alex Velasquez! 👋
+## Backend Specialist | AI & Agents Integrator | Software Architect
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Back end con experiencia en una variedad de tecnologías y herramientas. Me apasiona crear soluciones robustas y escalables para problemas desafiantes. Aquí hay más información sobre mí:
+I am a passionate **Backend Developer** based in **Argentina** 🇦🇷, specializing in building robust, scalable systems and intelligent agentic workflows. My journey has evolved from IT Infrastructure leadership to crafting high-performance backend solutions using **Java (Spring Boot)** and **Go**, and now pushing the boundaries with **AI Agents** and **Spec-Driven Development (SDD)**.
 
-**Lenguaje principal:** Java
+### 🚀 Current Focus & Highlights
 
-**Lenguajes secundarios:** Go, SQL, Python
+- **🤖 AI & Agents:** Building autonomous agents with **Model Context Protocol (MCP)**, **n8n**, and local LLMs (`llama3`, `deepseek`) on my own Raspberry Pi cluster.
+- **🏗️ Architecture:** Advocate for **Hexagonal Architecture**, **Clean Architecture**, and **Domain-Driven Design (DDD)**.
+- **🧩 Methodologies:** Pioneering **Spec-Driven Development (SDD)** to bridge the gap between requirements and code.
+- **🌐 Ecosystems:** Creating cross-platform solutions with **Kotlin Multiplatform (KMP)**.
 
-**Habilidades técnicas 💻**
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://golang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring security" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring cloud" width="40" height="40"/> 
-  </a> 
+---
+
+### 🛠️ Tech Stack
+
+#### **Core Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-¡No dudes en contactarme si tienes alguna pregunta o si estás interesado en colaborar en proyectos de desarrollo Backend!
+#### **AI & Data Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+#### **Infrastructure & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Pop!_OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</p>
+
+---
+
+### 🔭 Featured Projects
+
+- **Agen-ce:** An AI-powered agent for **Foreign Trade in Argentina**, leveraging GitHub Copilot, Streamlit, and Node.js.
+- **A2Home Ecosystem:** A comprehensive Spec-Driven Development (SDD) project implementing pure domain models, application ports, and JPA adapters.
+- **ROG AI Workstation:** Custom local AI infrastructure running on a Raspberry Pi cluster and optimized Linux workstations.
+
+---
+
+### 📈 Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=alex-v08&show_icons=true&theme=radical&hide_border=true" alt="alex-v08" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-v08&layout=compact&theme=radical&hide_border=true" alt="alex-v08" />
+</p>
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/alex-velasquez08](https://www.linkedin.com/in/alex-velasquez08/)
+- **Email:** alex.velasquez08@outlook.com
+
+_"Building the future, one spec at a time."_
