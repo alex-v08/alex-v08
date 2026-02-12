@@ -8,12 +8,13 @@ Professional with extensive experience leading technical teams under Agile metho
 ### Engineering & Agile Leadership
 <p align="left">
   <img src="https://img.shields.io/badge/Backend-Java_/_Go-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Framework-Micronaut_/_Spring_Boot-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Industry-EdTech_/_Real_Estate_/_Foreign_Trade-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Framework-Spring_Cloud_/_Micronaut-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_/_Hexagonal-orange?style=flat-square" />
 </p>
 
 *   **Technical Leadership:** Proven track record leading multidisciplinary teams using Agile frameworks to deliver scalable software solutions.
-*   **Complex Systems (EdTech):** End-to-end development of a mission-critical **Academic Management Engine**. Built with **Java 21** and **Micronaut**, featuring complex SQL optimization, JWT/OAuth2 security with Keycloak, and full containerization for large-scale university environments.
+*   **End-to-End Architecture (On-Demand Marketplace):** Architected and implemented a high-scale service marketplace platform. Designed a microservices ecosystem with **Spring Cloud**, featuring **API Gateway**, **Service Discovery**, **Keycloak (OAuth2)**, and **RabbitMQ** for event-driven communication.
+*   **Complex Systems (EdTech):** End-to-end development of a mission-critical Academic Management Engine. Built with **Java 21** and **Micronaut**, featuring complex SQL optimization and full containerization for large-scale university environments.
 *   **Backend Mastery:** Robust development in Java and Go, ensuring reliability through Hexagonal Architecture and Clean Code principles.
 
 ---
@@ -32,9 +33,9 @@ Professional with extensive experience leading technical teams under Agile metho
 ---
 
 ### Featured Projects
+*   **On-Demand Marketplace Core:** A comprehensive microservices ecosystem for service-based industries, implementing **Clean Architecture** and event-driven patterns.
 *   **Academic Management Engine:** A high-performance core for the education industry developed solo, focusing on massive data processing and secure authentication flows.
 *   **Agen-ce:** AI Agent for **Argentine Foreign Trade**, bridging regulatory complexity with actionable data using custom agentic workflows.
-*   **Lead Distribution System:** Production-ready automation for the **Real Estate industry** that utilizes AI for sentiment analysis and round-robin assignment.
 
 ---
 
